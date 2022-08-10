@@ -1,0 +1,22 @@
+1)select * from customer where name like 'Joe%'
+2)select p.* from product P
+ inner join orderproduct op on p.productid = op.productid
+inner join  order O on O.orderid = op.orderid
+inner join customer C on C.custoemrId = O.CustomerId
+ where c.name = 'joe' and O.createdAt > '2016-01-11'
+
+3)select sum(price) as 'price' from product P
+ inner join orderproduct op on p.productid = op.productid
+inner join  order O on O.orderid = op.orderid
+inner join customer C on C.custoemrId = O.CustomerId where c.name = 'joe'
+
+4)select count(Orderid) from Orders O
+inner OrderProducts P on O.ProductId = P.ProductId
+group by O.customerId ,P.ProductId
+//By writing some temp table we can acheive this 
+
+
+
+///////////////////////////********************************88/////////////////////////
+Postman:
+https://localhost:44334/Home/GetAllProducts

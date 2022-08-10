@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEbAPI-Sample", "WEbAPI-Sample\WEbAPI-Sample.csproj", "{14301916-9030-40A5-9E9C-AE09794E931B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{4317D0D7-CAE6-44E3-AF16-2D1FF23DDD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14301916-9030-40A5-9E9C-AE09794E931B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14301916-9030-40A5-9E9C-AE09794E931B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14301916-9030-40A5-9E9C-AE09794E931B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14301916-9030-40A5-9E9C-AE09794E931B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4317D0D7-CAE6-44E3-AF16-2D1FF23DDD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4317D0D7-CAE6-44E3-AF16-2D1FF23DDD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4317D0D7-CAE6-44E3-AF16-2D1FF23DDD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4317D0D7-CAE6-44E3-AF16-2D1FF23DDD81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63C3FCE4-E685-4B14-8BEA-EDD6C376C11C}
+	EndGlobalSection
+EndGlobal
