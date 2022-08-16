@@ -1,0 +1,13 @@
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.exe
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.deps.json
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.json
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.runtimeconfig.dev.json
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.dll
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\bin\Debug\netcoreapp3.1\TestConsole.pdb
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csprojAssemblyReference.cache
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfoInputs.cache
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.AssemblyInfo.cs
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.csproj.CoreCompileInputs.cache
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.dll
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.pdb
+C:\Tarun\Dotnet Programs\WEbAPI-Sample\TestConsole\obj\Debug\netcoreapp3.1\TestConsole.genruntimeconfig.cache
